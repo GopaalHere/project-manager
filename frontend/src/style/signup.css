@@ -1,0 +1,33 @@
+.signupcontainer{
+    max-width: 350px;
+    margin: auto;
+    margin-top: 120px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
+.signupcontainer h2{
+    text-align: center;
+}
+.signupcontainer button{
+    background-color: rgb(151, 70, 227);
+    max-width: 80px;
+    height: 30px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.signupcontainer button:hover{
+   background-color: rgb(106, 44, 164); 
+}
+.signupcontainer a{
+    font-weight: 600;
+    color: rgb(151, 70, 227);
+}
+.signupcontainer a:hover{
+    color: red;
+}
